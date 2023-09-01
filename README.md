@@ -41,12 +41,12 @@
 
 <p align="left">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true"
+  src="https://github-readme.wearzdk.me/api/top-langs?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true"
   alt="zskzskabcd"
 />
 &nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&theme=radical&hide_border=true&hide=issues&count_private=true"
+  src="https://github-readme.wearzdk.me/api?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&theme=radical&hide_border=true&hide=issues&count_private=true"
   alt="zskzskabcd"
 />
 </p>
