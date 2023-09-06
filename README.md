@@ -22,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
@@ -30,7 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
@@ -39,14 +37,5 @@
 
 <h3 align="left">My GitHub Stats 📈</h3>
 
-<p align="left">
-<img
-  src="https://github-readme.wearzdk.me/api/top-langs?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true"
-  alt="wearzdk"
-/>
-&nbsp;
-<img
-  src="https://github-readme.wearzdk.me/api?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&theme=radical&hide_border=true&hide=issues&count_private=true"
-  alt="wearzdk"
-/>
-</p>
+![languages](https://github-readme.wearzdk.me/api/top-langs?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true)
+![overview](https://github-readme.wearzdk.me/api?username=wearzdk&show_icons=true&title_color=5657f5&text_color=7575ff&theme=radical&hide_border=true&hide=issues&count_private=true)
