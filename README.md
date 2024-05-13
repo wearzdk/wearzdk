@@ -4,13 +4,7 @@
 
 - 🌱 I’m currently learning **Arduino, C++, WPF**
 
-- 👯 I’m looking to collaborate on **UI Design**
-
-- 🤝 I’m looking for help with **Arduino**
-
-- 💬 Ask me about **Front-end, Back-end, Operations, Technical Support**
-
-- 📫 Looking to hire me or seeking technical support? [Email](mailto:1225186748@qq.com)
+- 📫 Looking to hire me or seeking technical support? [Email](mailto:hi@wearzdk.me)
 
 - 📄 Currently a university student, at Qilu University of Technology
 
@@ -30,7 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"/>
 </p>
