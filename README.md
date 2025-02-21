@@ -1,12 +1,9 @@
-<h1 align="lewidth="40"ft">Hi 👋, I'm Wear Engineer</h1>
+<h1 align="left">Hi 👋, I'm Wear Engineer</h1>
 
-<h3 align="left">Student | Full-Stack Engineer</h3>
+<h3 align="left">Full-Stack Engineer</h3>
 
 - 🌱 I’m currently learning **Arduino, C++, WPF**
-
-- 📫 Looking to hire me or seeking technical support? [Email](mailto:hi@wearzdk.me)
-
-- 📄 Currently a university student, at Qilu University of Technology
+- 📫 Reach me at [Email](mailto:hi@wearzdk.me)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
