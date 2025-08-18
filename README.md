@@ -25,13 +25,13 @@
       <td>Real-Time AI Interview Copilot for Stress-Free, Confident Job Interviews.</td>
     </tr>
     <tr>
-      <td><img src="https://www.mianling.cn/favicon.png" width="32" alt="面灵AI logo"></td>
-      <td><a href="https://www.mianling.cn"><b>面灵AI (国内版)</b></a></td>
+      <td><img src="https://www.mianlingai.com/favicon.png" width="32" alt="面灵AI logo"></td>
+      <td><a href="https://www.mianlingai.com"><b>面灵AI (国内版)</b></a></td>
       <td>AI帮你面试，马上找到好工作！提供实时语音识别和智能提示。</td>
     </tr>
     <tr>
-      <td><img src="https://cv.mianling.cn/favicon.png" width="32" alt="智灵简历 logo"></td>
-      <td><a href="https://cv.mianling.cn"><b>智灵简历</b></a></td>
+      <td><img src="https://cv.mianlingai.com/favicon.png" width="32" alt="智灵简历 logo"></td>
+      <td><a href="https://cv.mianlingai.com"><b>智灵简历</b></a></td>
       <td>AI驱动的简历生成与优化工具，让每个HR看到最优的你。</td>
     </tr>
     <tr>
