@@ -11,40 +11,50 @@
 ### 🚀 My Projects & Products
 
 <table>
-  <thead>
+  <thead>
+    <tr>
+      <th width="50px"></th>
+      <th>Product</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://www.aceround.app/favicon.png" width="32" alt="AceRound AI logo"></td>
+      <td><a href="https://www.aceround.app"><b>AceRound AI</b></a></td>
+      <td>Real-Time AI Interview Copilot for Stress-Free, Confident Job Interviews.</td>
+    </tr>
+    <tr>
+      <td><img src="https://www.mianlingai.com/favicon.png" width="32" alt="面灵AI logo"></td>
+      <td><a href="https://www.mianlingai.com"><b>面灵AI (国内版)</b></a></td>
+      <td>AI帮你面试，马上找到好工作！提供实时语音识别和智能提示。</td>
+    </tr>
+    <tr>
+      <td><img src="https://cv.mianlingai.com/favicon.png" width="32" alt="智灵简历 logo"></td>
+      <td><a href="https://cv.mianlingai.com"><b>智灵简历</b></a></td>
+      <td>AI驱动的简历生成与优化工具，让每个HR看到最优的你。</td>
+    </tr>
     <tr>
-      <th width="50px"></th>
-      <th>Product</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
+      <td><img src="https://www.videokit.cc/favicon.ico" width="32" alt="VideoKit logo"></td>
+      <td><a href="https://www.videokit.cc/"><b>VideoKit</b></a></td>
+      <td>在线视频工具箱，提供完全本地的视频转码、拼接、加水印等功能。</td>
+    </tr>
+    <tr>
+      <td><img src="https://www.geecegto.com/favicon.png" width="32" alt="极策GTO logo"></td>
+      <td><a href="https://www.geecegto.com/"><b>极策 GTO</b></a></td>
+      <td>提供专业的德州扑克GTO（博弈论最优策略）翻前策略查询。</td>
+    </tr>
     <tr>
-      <td><img src="https://www.aceround.app/favicon.png" width="32" alt="AceRound AI logo"></td>
-      <td><a href="https://www.aceround.app"><b>AceRound AI</b></a></td>
-      <td>Real-Time AI Interview Copilot for Stress-Free, Confident Job Interviews.</td>
-    </tr>
-    <tr>
-      <td><img src="https://www.mianlingai.com/favicon.png" width="32" alt="面灵AI logo"></td>
-      <td><a href="https://www.mianlingai.com"><b>面灵AI (国内版)</b></a></td>
-      <td>AI帮你面试，马上找到好工作！提供实时语音识别和智能提示。</td>
-    </tr>
-    <tr>
-      <td><img src="https://cv.mianlingai.com/favicon.png" width="32" alt="智灵简历 logo"></td>
-      <td><a href="https://cv.mianlingai.com"><b>智灵简历</b></a></td>
-      <td>AI驱动的简历生成与优化工具，让每个HR看到最优的你。</td>
-    </tr>
-    <tr>
-      <td><img src="https://www.geece.cn/favicon.png" width="32" alt="极策GTO logo"></td>
-      <td><a href="https://www.geece.cn/"><b>极策 GTO</b></a></td>
-      <td>提供专业的德州扑克GTO（博弈论最优策略）翻前策略查询。</td>
-    </tr>
-    <tr>
-      <td><img src="https://playai.zone/favicon.png" width="32" alt="PlayAI Zone logo"></td>
-      <td><a href="https://playai.zone/"><b>PlayAI Zone</b></a></td>
-      <td>体验最前沿的AI驱动游戏平台，让想象力决定胜负！</td>
-    </tr>
-  </tbody>
+      <td><img src="https://www.mestregto.com/favicon.png" width="32" alt="Mestre GTO logo"></td>
+      <td><a href="https://www.mestregto.com/"><b>Mestre GTO (巴西版)</b></a></td>
+      <td>A melhor plataforma de estratégias GTO pré-flop em português.</td>
+    </tr>
+    <tr>
+      <td><img src="https://playai.zone/favicon.png" width="32" alt="PlayAI Zone logo"></td>
+      <td><a href="https://playai.zone/"><b>PlayAI Zone</b></a></td>
+      <td>体验最前沿的AI驱动游戏平台，让想象力决定胜负！</td>
+    </tr>
+  </tbody>
 </table>
 
 ### ✍️ My Blogs
