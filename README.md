@@ -35,6 +35,11 @@
       <td>AI驱动的简历生成与优化工具，让每个HR看到最优的你。</td>
     </tr>
     <tr>
+      <td><img src="https://mcp.pixelark.art/logo.png" width="32" alt="PixelMCP logo"></td>
+      <td><a href="https://mcp.pixelark.art"><b>PixelMCP</b></a></td>
+      <td>专为开发者打造的 AI 自动绘画MCP，让生成的页面不再单调</td>
+    </tr>
+    <tr>
       <td><img src="https://www.videokit.cc/favicon.ico" width="32" alt="VideoKit logo"></td>
       <td><a href="https://www.videokit.cc/"><b>VideoKit</b></a></td>
       <td>在线视频工具箱，提供完全本地的视频转码、拼接、加水印等功能。</td>
