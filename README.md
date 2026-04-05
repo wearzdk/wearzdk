@@ -29,6 +29,11 @@
       <td><a href="https://www.mianlingai.com"><b>面灵AI (国内版)</b></a></td>
       <td>AI帮你面试，马上找到好工作！提供实时语音识别和智能提示。</td>
     </tr>
+    <tr>
+      <td><img src="https://mj.mianlingai.com/favicon.svg" width="32" alt="大厂面经 logo"></td>
+      <td><a href="https://mj.mianlingai.com"><b>大厂面经</b></a></td>
+      <td>真实大厂 Java/后端面经整理，字节/腾讯/阿里/美团一手面试题，助力求职备战。</td>
+    </tr>
     <tr>
       <td><img src="https://cv.mianlingai.com/favicon.png" width="32" alt="智灵简历 logo"></td>
       <td><a href="https://cv.mianlingai.com"><b>智灵简历</b></a></td>
