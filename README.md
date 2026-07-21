@@ -40,11 +40,6 @@
       <td>AI驱动的简历生成与优化工具，让每个HR看到最优的你。</td>
     </tr>
     <tr>
-      <td><img src="https://mcp.pixelark.art/logo.png" width="32" alt="PixelMCP logo"></td>
-      <td><a href="https://mcp.pixelark.art"><b>PixelMCP</b></a></td>
-      <td>专为开发者打造的 AI 自动绘画MCP，让生成的页面不再单调</td>
-    </tr>
-    <tr>
       <td><img src="https://www.videokit.cc/favicon.ico" width="32" alt="VideoKit logo"></td>
       <td><a href="https://www.videokit.cc/"><b>VideoKit</b></a></td>
       <td>在线视频工具箱，提供完全本地的视频转码、拼接、加水印等功能。</td>
@@ -54,23 +49,18 @@
       <td><a href="https://www.geecegto.com/"><b>极策 GTO</b></a></td>
       <td>提供专业的德州扑克GTO（博弈论最优策略）翻前策略查询。</td>
     </tr>
-    <tr>
-      <td><img src="https://www.mestregto.com/favicon.png" width="32" alt="Mestre GTO logo"></td>
-      <td><a href="https://www.mestregto.com/"><b>Mestre GTO (巴西版)</b></a></td>
-      <td>A melhor plataforma de estratégias GTO pré-flop em português.</td>
+    <tr>
+      <td><img src="https://profolio.cn/favicon.ico" width="32" alt="Profolio logo"></td>
+      <td><a href="https://profolio.cn"><b>Profolio</b></a></td>
+      <td>AI 驱动的个人主页 / link-in-bio 平台，一个链接聚合你的全部作品与社交名片。</td>
     </tr>
     <tr>
-      <td><img src="https://playai.zone/favicon.png" width="32" alt="PlayAI Zone logo"></td>
-      <td><a href="https://playai.zone/"><b>PlayAI Zone</b></a></td>
-      <td>体验最前沿的AI驱动游戏平台，让想象力决定胜负！</td>
+      <td><img src="https://publishport.app/favicon.ico" width="32" alt="PublishPort logo"></td>
+      <td><a href="https://publishport.app"><b>PublishPort</b></a></td>
+      <td>让 AI 接管多平台内容发布、互动与数据分析，直接复用你本机已登录的账号。</td>
     </tr>
   </tbody>
 </table>
-
-### ✍️ My Blogs
-
-- **[Next Round Ready](https://blog.aceround.app/)** - Smarter Interviews, Faster Offers. Expert guides & free AI tools for job seekers.
-- **[wear 工程师的博客](https://blog.wearzdk.me/)** - My personal blog for tech insights and reflections.
 
 ---
 
